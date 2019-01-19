@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "underconstruction.html",
+    "currentPage": "dual-pump-fuel-system-installation-99-02.html",
     "name": "A&A Corvette Performance",
     "theme": {
       "name": "mobirise3",
@@ -5971,7 +5971,7 @@
             "overlay": true,
             "overlayColor": "#000",
             "overlayOpacity": 0.1,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-success\">DOWNLOAD FOR WINDOWS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">INSTALL INSTRUCTIONS</a>"
           },
           "title": "DROP A MESSAGE",
           "media1": {
