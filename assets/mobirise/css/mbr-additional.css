@@ -701,7 +701,12 @@ h6,
 }
 #msg-box5-1gs H3 {
   font-size: 30px;
-  color: #f40a0a;
+  color: #ff0400;
+  text-align: right;
+}
+#msg-box5-1gs SPAN {
+  font-size: 25px;
+  color: #ffffff;
 }
 #extFeatures12-3c .card-number {
   color: #fefefe;
@@ -863,11 +868,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-96 .link {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 #ext_menu-96 .dropdown-item,
 #ext_menu-96 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.029rem;
 }
 #ext_menu-96 .link:hover,
 #ext_menu-96 .dropdown-item:hover,
