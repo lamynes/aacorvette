@@ -868,11 +868,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-96 .link {
-  font-size: 0.95rem;
+  font-size: 1rem;
 }
 #ext_menu-96 .dropdown-item,
 #ext_menu-96 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 1.083rem;
 }
 #ext_menu-96 .link:hover,
 #ext_menu-96 .dropdown-item:hover,
