@@ -13,8 +13,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -701,22 +699,9 @@ h6,
 .theme-border {
   border: 1px solid #fefefe;
 }
-#header3-4o .mbr-section-title,
-#header3-4o .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-4o SMALL {
-  font-size: 20px;
-  font-family: 'Oswald', sans-serif;
-}
-#header3-4o H3 {
-  font-size: 36px;
-  color: #ff0400;
-}
-#header3-4o SPAN {
-  color: #ff0400;
-  font-size: 48px;
-  font-family: 'Oswald', sans-serif;
+#msg-box5-1gs H3 {
+  font-size: 30px;
+  color: #f40a0a;
 }
 #extFeatures12-3c .card-number {
   color: #fefefe;
@@ -878,11 +863,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-96 .link {
-  font-size: 0.85rem;
+  font-size: 0.9rem;
 }
 #ext_menu-96 .dropdown-item,
 #ext_menu-96 .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.975rem;
 }
 #ext_menu-96 .link:hover,
 #ext_menu-96 .dropdown-item:hover,
@@ -6249,11 +6234,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-1e3 .link {
-  font-size: 0.95rem;
+  font-size: 0.85rem;
 }
 #ext_menu-1e3 .dropdown-item,
 #ext_menu-1e3 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.921rem;
 }
 #ext_menu-1e3 .link:hover,
 #ext_menu-1e3 .dropdown-item:hover,
@@ -6536,11 +6521,11 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #ext_menu-1fj .link {
-  font-size: 0.95rem;
+  font-size: 0.85rem;
 }
 #ext_menu-1fj .dropdown-item,
 #ext_menu-1fj .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 0.921rem;
 }
 #ext_menu-1fj .link:hover,
 #ext_menu-1fj .dropdown-item:hover,
