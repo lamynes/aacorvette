@@ -144,7 +144,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.5",
             "numbersColor": "@primaryColor"
           },
           "media1": {
@@ -1111,8 +1111,8 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "64",
-            "paddingTop": "1",
+            "imageSize": "58",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/aboutus-2000x1500.jpg",
@@ -1129,7 +1129,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.5"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -2193,8 +2193,8 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "64",
-            "paddingTop": "1",
+            "imageSize": "58",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/c5bc-2000x919.jpg",
@@ -3536,8 +3536,8 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "64",
-            "paddingTop": "1",
+            "imageSize": "58",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/c6-wireframebc-1-2000x919.jpg",
