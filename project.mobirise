@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "c6superchargers.html",
+    "currentPage": "index.html",
     "name": "A&A Corvette Performance",
     "theme": {
       "name": "mobirise3",
@@ -72,48 +72,6 @@
       "components": [
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "font-size": "20px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            "H3": {
-              "font-size": "36px",
-              "color": "#ff0400"
-            },
-            "SPAN": {
-              "color": "#ff0400",
-              "font-size": "48px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "30px",
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": "6",
-            "paddingBottom": "1",
-            "bgColor": "#000000"
-          },
-          "title": "<span style=\"font-weight: normal;\">A&amp;A Corvette has now partnered with </span>AFFIRM<span style=\"font-weight: normal;\"> to offer Interest Free Financing!</span>",
-          "meta": "A &amp; A Corvette Performance, Ltd. 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1gt"
-        },
-        {
-          "_styles": {
             ".card-number": {
               "color": "@primaryColor"
             },
@@ -172,7 +130,7 @@
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": false,
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "2",
             "columns": 3,
             "bgImageRadio": true,
@@ -294,6 +252,50 @@
           "subtitle4": "Mobirise gives you the freedom",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "font-size": "20px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "H3": {
+              "font-size": "36px",
+              "color": "#ff0400"
+            },
+            "SPAN": {
+              "color": "#ff0400",
+              "font-size": "48px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "30px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ff0400",
+              "font-size": "30px",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#000000"
+          },
+          "title": "<span style=\"font-weight: normal;\">A&amp;A Corvette has now partnered with </span>AFFIRM<span style=\"font-weight: normal;\"> to offer Interest Free Financing!</span>",
+          "meta": "A &amp; A Corvette Performance, Ltd. 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1gt"
         },
         {
           "_styles": {
@@ -5978,7 +5980,7 @@
             "overlay": true,
             "overlayColor": "#000",
             "overlayOpacity": 0.1,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\">SHOP NOW</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">MORE</a>"
           },
           "title": "DROP A MESSAGE",
           "media1": {

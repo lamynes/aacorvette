@@ -701,30 +701,6 @@ h6,
 .theme-border {
   border: 1px solid #fefefe;
 }
-#header3-1gt .mbr-section-title,
-#header3-1gt .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-1gt SMALL {
-  font-size: 20px;
-  font-family: 'Oswald', sans-serif;
-}
-#header3-1gt H3 {
-  font-size: 36px;
-  color: #ff0400;
-}
-#header3-1gt SPAN {
-  color: #ff0400;
-  font-size: 48px;
-  font-family: 'Oswald', sans-serif;
-}
-#header3-1gt .mbr-section-title SPAN {
-  font-size: 30px;
-  color: #ffffff;
-}
-#header3-1gt .mbr-section-title {
-  color: #ff0400;
-}
 #extFeatures12-3c .card-number {
   color: #fefefe;
 }
@@ -766,6 +742,32 @@ h6,
 }
 #extFeatures12-3c B {
   color: #ff0400;
+}
+#header3-1gt .mbr-section-title,
+#header3-1gt .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1gt SMALL {
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+}
+#header3-1gt H3 {
+  font-size: 36px;
+  color: #ff0400;
+}
+#header3-1gt SPAN {
+  color: #ff0400;
+  font-size: 48px;
+  font-family: 'Oswald', sans-serif;
+}
+#header3-1gt .mbr-section-title SPAN {
+  font-size: 30px;
+  color: #ffffff;
+}
+#header3-1gt .mbr-section-title {
+  color: #ff0400;
+  font-size: 30px;
+  text-align: center;
 }
 #header3-4n .mbr-section-title,
 #header3-4n .mbr-section-subtitle {
